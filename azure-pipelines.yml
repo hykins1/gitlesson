@@ -27,3 +27,4 @@ steps:
 
 - script: |
     ls
+    python helloworld.py
