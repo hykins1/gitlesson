@@ -26,4 +26,4 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 - script: |
-    python hello.py
+    ls
